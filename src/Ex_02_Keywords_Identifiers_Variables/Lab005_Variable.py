@@ -9,3 +9,14 @@ name = "Pramod"
 name = "Pramod"
 name = "Dutta"
 print(name)
+
+
+a = 1
+b = 2
+c = a
+
+a = "mani"
+print(a)
+
+
+
